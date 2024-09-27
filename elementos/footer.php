@@ -1,7 +1,7 @@
 <footer>
     <div class="top">
         <div class="contact">
-            <p>CONTACT US</p>
+            <p>CONTACTANOS</p>
             <a href="tel:+52 5551038910">5551038910</a>
             <a href="tel:+52 5553059131">5553059131</a>
             <a href="mailto:contacto@buildingtechmexico">Contacto@buildingtechmexico</a>
@@ -14,7 +14,7 @@
         </a>
 
         <div class="location">
-            <p>LOCATION</p>
+            <p>UBICACION</p>
             <a href="" target="__blank">Tlalnepantla Estado de México</a>
         </div>
     </div>

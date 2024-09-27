@@ -63,50 +63,50 @@
     <section id="hero">
       <div class="container">
         <div class="images">
-          <figure><img loading="lazy" src="img/h1.png" alt=""></figure>
-          <figure><img loading="lazy" src="img/h2.png" alt=""></figure>
+          <figure class="show wow"><img loading="lazy" src="img/h1.png" alt=""></figure>
+          <figure class="show wow"><img loading="lazy" src="img/h2.png" alt=""></figure>
         </div>
         <div class="content">
-          <h1>
+          <h1 class="fadeIn wow">
             <red>Building</red> Tech
           </h1>
-          <h2>Construcción y Arquitectura</h2>
+          <h2 class="fadeIn wow">Construcción y Arquitectura</h2>
           <div class="blue-oval"></div>
-          <p>Ser facilitadores en el desarrollo de las actividades de las personas, familias, empresas,
+          <p class="fadeIn wow">Ser facilitadores en el desarrollo de las actividades de las personas, familias, empresas,
             comunidades y ciudades mediante el desarrollo de proyectos a medida apegados a los más
             altos estándares de calidad.</p>
-          <div class="buttons">
-            <a href="" class="button">Comencemos</a>
-            <a href="" class="button secondary">Mira el video</a>
+          <div class="buttons fadeInUp wow">
+            <a href="#contact" class="button">Comencemos</a>
+            <a href="#video" class="button secondary">Mira el video</a>
           </div>
         </div>
       </div>
     </section>
 
     <section id="nosotros">
-      <h2>"Compromiso con la Innovación: <red>Nosotros</red> Transformamos Espacios"</h2>
+      <h2 class="fadeIn wow">"Compromiso con la Innovación: <red>Nosotros</red> Transformamos Espacios"</h2>
 
-      <p>Somos una empresa mexicana con 14 años de experiencia en la industria de la construcción y arquitectura, dedicada a cubrir las necesidades de nuestros clientes. A lo largo del tiempo, hemos innovado para ofrecer servicios integrales cada vez más especializados, adaptados a los nuevos retos.</p>
+      <p id="video" class="fadeIn wow">Somos una empresa mexicana con 14 años de experiencia en la industria de la construcción y arquitectura, dedicada a cubrir las necesidades de nuestros clientes. A lo largo del tiempo, hemos innovado para ofrecer servicios integrales cada vez más especializados, adaptados a los nuevos retos.</p>
 
-      <video controls preload poster="img/cover.png">
+      <video class="show wow" controls preload loop autoplay muted poster="img/cover.png">
         <source src="0830.mp4">
       </video>
 
       <div class="container">
         <div>
-          <figure><img loading="lazy" src="img/mision.png" alt=""></figure>
-          <span>
+          <figure class="show wow"><img loading="lazy" src="img/mision.png" alt=""></figure>
+          <span class="fadeIn wow">
             <h4>Misión</h4>
           </span>
-          <p>Ser facilitadores en el desarrollo de las actividades de las personas, familias, empresas, comunidades y ciudades mediante el desarrollo de proyectos a medida apegados a los más altos estándares de calidad.</p>
+          <p class="fadeIn wow">Ser facilitadores en el desarrollo de las actividades de las personas, familias, empresas, comunidades y ciudades mediante el desarrollo de proyectos a medida apegados a los más altos estándares de calidad.</p>
         </div>
 
         <div>
-          <figure><img loading="lazy" src="img/vision.png" alt=""></figure>
-          <span>
+          <figure class="show wow"><img loading="lazy" src="img/vision.png" alt=""></figure>
+          <span class="fadeIn wow">
             <h4>Visión</h4>
           </span>
-          <p>Buscamos consolidarnos como un referente regional en la industria de la construcción, diseño, ingeniería y mantenimiento de bienes inmuebles.</p>
+          <p class="fadeIn wow">Buscamos consolidarnos como un referente regional en la industria de la construcción, diseño, ingeniería y mantenimiento de bienes inmuebles.</p>
         </div>
       </div>
     </section>
@@ -114,7 +114,7 @@
     <section id="servicios">
       <h2>Nuestros Servicios</h2>
       <div class="container">
-        <div class="text">
+        <div class="text fadeIn wow">
           <h2 class="big">Construcción y arquitectura</h2>
           <ul>
             <li>Estudio y diseño de proyectos arquitectónicos a nivel ejecutivo de tipo residencial, comercial e industrial apegados a la normalidad aplicable</li>
@@ -132,18 +132,18 @@
             <div class="top">
               <div class="left">
                 <div class="first">
-                  <figure>
+                  <figure class="show wow">
                     <img loading="lazy" src="img/cya1.jpg" alt="">
                   </figure>
                 </div>
                 <div class="second">
-                  <figure>
+                  <figure class="show wow">
                     <img loading="lazy" src="img/cya2.jpg" alt="">
                   </figure>
                 </div>
               </div>
               <div class="right">
-                <figure>
+                <figure class="show wow">
                   <img loading="lazy" src="img/cya3.jpg" alt="">
                 </figure>
               </div>
@@ -163,18 +163,18 @@
             <div class="top">
 
               <div class="right">
-                <figure>
+                <figure class="show wow">
                   <img loading="lazy" src="img/in1.jpg" alt="">
                 </figure>
               </div>
               <div class="left">
                 <div class="first">
-                  <figure>
+                  <figure class="show wow">
                     <img loading="lazy" src="img/in2.png" alt="">
                   </figure>
                 </div>
                 <div class="second">
-                  <figure>
+                  <figure class="show wow">
                     <img loading="lazy" src="img/in3.jpg" alt="">
                   </figure>
                 </div>
@@ -182,14 +182,14 @@
 
             </div>
             <div class="bottom">
-              <figure>
+              <figure class="show wow">
                 <img loading="lazy" src="img/in4.jpg" alt="">
               </figure>
             </div>
           </div>
         </div>
 
-        <div class="text">
+        <div class="text fadeIn wow">
           <h2 class="big">Infraestructura</h2>
           <ul>
             <li>Diseño e Instalaciones proyectos eléctricos de media y baja tensión apegadas a la norma NOM-001-SEDE-2018</li>
@@ -207,10 +207,10 @@
     <section id="contact">
       <div class="container">
         <div class="left">
-          <h2>¿Tienes alguna pregunta?</h2>
-          <p>Llena el siguiente formulario para ponerte en contacto con nuestro equipo y en breve estaremos respondiendo tu solicitud:</p>
+          <h2 class="fadeIn wow">¿Tienes alguna pregunta?</h2>
+          <p class="fadeIn wow">Llena el siguiente formulario para ponerte en contacto con nuestro equipo y en breve estaremos respondiendo tu solicitud:</p>
 
-          <form action="">
+          <form action="" class="fadeInLeft wow">
             <input type="text" name="name" id="name" placeholder="Nombre" required>
             <input type="text" name="lastname" id="lastname" placeholder="Apellido" required>
             <input type="email" name="email" id="email" placeholder="Correo" required>
@@ -219,7 +219,7 @@
             <button type="submit">Enviar mensaje</button>
           </form>
         </div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15089.069990628806!2d-99.00841689891881!3d19.007930864920176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0d7e9afd5a2b%3A0x829c335b10695ec5!2s62530%20Tlalnepantla%2C%20Mor.!5e0!3m2!1ses-419!2smx!4v1725040040865!5m2!1ses-419!2smx" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30076.177823823356!2d-99.21167159999999!3d19.5621151!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d21d72c87a692d%3A0x994bd429086b1ad!2sBenito%20Ju%C3%A1rez(Tequex)%2C%2054020%20Tlalnepantla%2C%20M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1727402496891!5m2!1ses-419!2smx"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </section>
   </main>

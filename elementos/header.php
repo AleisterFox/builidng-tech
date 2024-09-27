@@ -35,9 +35,9 @@
             <li><a href="#servicios">Servicios</a></li>
             <li><a href="#contact">Contacto</a></li>
             <li class="redes">
-                <a href="" target="__blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.tiktok.com/@cuaumon?_t=8pykXm99CUA&_r=1" target="__blank"><i class="fab fa-instagram"></i></a>
                 <a href="" target="__blank"><i class="fab fa-tiktok"></i></a>
-                <a href="" target="__blank"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.facebook.com/buildingtechmexico?mibextid=LQQJ4d" target="__blank"><i class="fab fa-facebook"></i></a>
             </li>
         </ul>
     </nav>
